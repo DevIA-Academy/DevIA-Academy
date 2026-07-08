@@ -1,39 +1,56 @@
-# DAPS (DevIA Automated Production System)
+# Development Academy Production System
 
-## Purpose
-
-DAPS is an internal production framework created to support the development of DevIA Academy.
-
-Its purpose is to provide a structured, repeatable, and scalable workflow for creating high-quality educational content.
-
-DAPS is not the final product.
-
-The final product is DevIA Academy.
-
-Every improvement made to DAPS must directly improve the quality, efficiency, or consistency of DevIA Academy.
+Versión 1.0.0
 
 ---
 
-## Goals
+# Objetivo
 
-- Standardize the content production workflow.
-- Ensure technical and educational quality.
-- Reduce production time through reusable assets.
-- Improve continuously after every published video.
-- Support future automation.
+Definir el sistema oficial mediante el cual DevIA Academy diseña, desarrolla, valida y publica contenido educativo.
 
 ---
 
-## Scope
+# Principios
 
-Current Version: MVP (v0.1)
+Todo contenido debe:
 
-The current version only contains the minimum documentation required to produce the first DevIA Academy video.
-
-The framework will evolve incrementally based on real production experience.
+- resolver un problema
+- estar validado
+- aportar valor
+- poder reutilizarse
 
 ---
 
-## Motto
+# Fases
 
-> Engineer the Process. Empower the Creator.
+1 Discovery
+
+2 Research
+
+3 Development
+
+4 Validation
+
+5 Script
+
+6 Voice
+
+7 Editing
+
+8 Quality Assurance
+
+9 Publishing
+
+10 Repurposing
+
+11 Metrics
+
+12 Continuous Improvement
+
+Cada fase posee su propia documentación.
+
+---
+
+# Versionado
+
+v1.0.0

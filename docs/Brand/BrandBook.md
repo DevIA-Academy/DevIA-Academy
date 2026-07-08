@@ -1,156 +1,86 @@
-# DevIA Academy - Brand Book v1.0
+# DevIA Academy - Brand Book
 
-> Última actualización: Julio 2026
+**Versión:** 1.0.0
+
+---
+
+# Objetivo
+
+Definir la identidad oficial de DevIA Academy para garantizar una comunicación consistente en todas las plataformas y materiales.
+
+---
+
+# Alcance
+
+Este documento aplica a:
+
+- YouTube
+- Shorts
+- TikTok
+- Instagram
+- GitHub
+- Sitio Web (futuro)
+- Material educativo
+- Presentaciones
+- Redes sociales
 
 ---
 
 # Misión
 
-Ayudar a desarrolladores y futuros desarrolladores a aprender .NET construyendo software real, con contenido claro, moderno y de alta calidad.
+Ayudar a cualquier persona a convertirse en un desarrollador profesional construyendo software real con tecnologías modernas.
 
 ---
 
 # Visión
 
-Convertirse en la academia en español más reconocida para aprender desarrollo profesional con .NET, Azure, Angular e Inteligencia Artificial.
+Ser la academia de referencia en español para aprender desarrollo moderno con .NET, Azure, Angular e Inteligencia Artificial.
 
 ---
 
 # Valores
 
 - Calidad antes que cantidad.
-- Todo el código debe compilar.
-- Todo el contenido debe aportar valor.
 - Aprender construyendo.
-- Explicar el "por qué", no solo el "cómo".
+- Todo el código debe funcionar.
+- Explicar el por qué.
+- Simplicidad.
+- Profesionalismo.
 - Mejora continua.
 
 ---
 
 # Público objetivo
 
-- Personas que comienzan en programación.
-- Desarrolladores Junior.
-- Desarrolladores .NET.
-- Personas que desean cambiar de carrera.
-- Estudiantes universitarios.
-- Programadores autodidactas.
+Primario
+
+- Personas sin experiencia
+- Estudiantes
+- Desarrolladores Junior
+
+Secundario
+
+- Desarrolladores Mid
+- Personas que migran desde otras tecnologías
 
 ---
 
-# Identidad visual
+# Personalidad
 
-## Colores oficiales
+DevIA Academy comunica como un mentor técnico.
 
-| Color | Hex |
-|--------|------|
-| Azul principal | #0078D4 |
-| Azul oscuro | #005A9E |
-| Blanco | #FFFFFF |
-| Gris claro | #F3F4F6 |
-| Gris texto | #6B7280 |
-| Verde éxito | #16A34A |
+Nunca:
 
----
+- arrogante
+- pretencioso
+- elitista
 
-# Tipografía
+Siempre:
 
-Principal:
-
-Segoe UI
-
-Alternativa:
-
-Inter
-
----
-
-# Logo
-
-El logo representa:
-
-- Desarrollo
-- Inteligencia Artificial
-- Tecnología
-- Arquitectura
-- Profesionalismo
-
-Siempre utilizar la versión oficial.
-
-No modificar colores.
-
-No deformar.
-
-No agregar sombras.
-
----
-
-# Banner
-
-Mensaje principal:
-
-Aprende .NET construyendo software real.
-
-Debe transmitir:
-
-- Profesionalismo
-- Tecnología
-- Orden
-- Simplicidad
-
----
-
-# Estilo de miniaturas
-
-Siempre utilizar:
-
-- Fondo limpio
-- Máximo 5 palabras
-- Logo en la esquina
-- Colores corporativos
-- Mucho espacio en blanco
-- Imagen sencilla relacionada con el tema
-
----
-
-# Estilo de videos
-
-Formato:
-
-- Canal Faceless
-- Narración IA
-- Código real
-- Visual Studio
-- Diagramas simples
-- Animaciones discretas
-
-Nunca utilizar:
-
-- Música invasiva
-- Efectos exagerados
-- Texto excesivo
-
----
-
-# Redes sociales
-
-El contenido nace del video largo.
-
-Distribución:
-
-- YouTube
-- Shorts
-- TikTok
-- Instagram
-- LinkedIn (futuro)
-
----
-
-# Filosofía
-
-No enseñamos teoría.
-
-Construimos software real y explicamos por qué funciona.
+- profesional
+- cercano
+- claro
+- directo
 
 ---
 
@@ -160,6 +90,70 @@ Aprende .NET construyendo software real.
 
 ---
 
-# Estado
+# Identidad Visual
 
-Brand Book v1.0
+## Colores
+
+| Nombre | HEX |
+|----------|-----------|
+| Primary | #0078D4 |
+| Primary Dark | #005A9E |
+| White | #FFFFFF |
+| Gray | #F3F4F6 |
+| Text | #6B7280 |
+| Success | #16A34A |
+
+---
+
+# Tipografía
+
+Principal
+
+Segoe UI
+
+Alternativa
+
+Inter
+
+---
+
+# Logo
+
+Reglas de uso
+
+- No modificar colores.
+- No deformar.
+- Mantener espacio de seguridad.
+- Utilizar únicamente versiones oficiales.
+
+---
+
+# Banner
+
+Debe transmitir:
+
+- Tecnología
+- Profesionalismo
+- Orden
+- Simplicidad
+
+---
+
+# Plataformas
+
+Contenido principal
+
+YouTube
+
+Distribución
+
+- Shorts
+- TikTok
+- Instagram
+- LinkedIn
+
+---
+
+# Versionado
+
+v1.0.0

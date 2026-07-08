@@ -1,49 +1,47 @@
-# DAPS Principles
+# Principios
 
-## Principle 0
+## P1
 
-The methodology exists to help people learn better.
-
----
-
-## Principle 1
-
-DevIA Academy is always the priority.
+Nunca publicar código sin probar.
 
 ---
 
-## Principle 2
+## P2
 
-Quality over speed.
-
----
-
-## Principle 3
-
-Every project must compile and run before publication.
+Cada video debe tener un objetivo de aprendizaje.
 
 ---
 
-## Principle 4
+## P3
 
-AI assists the creator but never replaces technical judgment.
-
----
-
-## Principle 5
-
-Every reusable asset reduces future production time.
+Explicar el por qué antes del cómo.
 
 ---
 
-## Principle 6
+## P4
 
-Every published video improves DAPS.
+Un esfuerzo de producción genera múltiples activos.
 
 ---
 
-## Principle 7
+## P5
 
-Only automate proven processes.
+Todo debe poder automatizarse.
 
-Never automate assumptions.
+---
+
+## P6
+
+La calidad es prioridad.
+
+---
+
+## P7
+
+Las métricas mejoran el proceso.
+
+---
+
+## P8
+
+El estudiante es el centro del sistema.
