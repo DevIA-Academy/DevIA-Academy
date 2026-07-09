@@ -1,0 +1,6 @@
+@DevIA.Store.Api_HostAddress = http://localhost:5072
+
+GET {{DevIA.Store.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

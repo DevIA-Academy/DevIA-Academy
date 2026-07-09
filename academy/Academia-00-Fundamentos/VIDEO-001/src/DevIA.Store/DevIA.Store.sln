@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIA.Store.Api", "DevIA.Store.Api.csproj", "{0AB707C4-2BB4-4A06-BE74-20C6EE7DF02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB707C4-2BB4-4A06-BE74-20C6EE7DF02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB707C4-2BB4-4A06-BE74-20C6EE7DF02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB707C4-2BB4-4A06-BE74-20C6EE7DF02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB707C4-2BB4-4A06-BE74-20C6EE7DF02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE5721F-3F13-4FE1-A06D-6D2BB736EE8C}
+	EndGlobalSection
+EndGlobal
