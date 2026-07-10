@@ -95,7 +95,8 @@ Al finalizar el video el estudiante podrá responder:
 - Acto 1 - Hook
 - Acto 2 - Presentación
 - Acto 3 - Radiografía del Proyecto
-- Acto 4 - Cierre
+- Acto 4 – PROGRAM.CS (EL CORAZÓN DEL VIDEO)
+- Acto 5 - Cierre
 
 ---
 

@@ -1,139 +1,53 @@
-# DevIA Academy - Project Status
+# PROJECT STATUS
 
-> Última actualización: 09/07/2026
+## Estado General
 
----
-
-# Estado General
-
-| Área | Estado |
-|------|--------|
-| Planeación (DAPS) | ✅ Completado |
-| Branding | 🟡 En progreso |
-| Desarrollo | 🟡 En progreso |
-| Video 001 | 🟡 En progreso |
+🟢 Activo
 
 ---
 
-# Sprint 1 - Fundación
+## Sprint Actual
 
-## Documentación
+Sprint 1.5
 
-- [x] DAPS completado
-- [x] PIPELINE.md
-- [x] PROCESS.md
-- [x] PRODUCT_BRIEF.md
-- [x] SCRIPT.md
-- [x] STORYBOARD.md
+Estado:
 
-Estado: ✅ Completado
+✅ COMPLETED
 
 ---
 
-## Branding
+## Último logro
 
-- [x] Nombre oficial: DevIA Academy
-- [x] Eslogan oficial
-- [x] Identidad visual definida
-- [ ] Logo oficial
-- [ ] Banner oficial de YouTube
-- [ ] Avatar oficial
-- [ ] Exportación del Brand Kit
+Metodología oficial de producción creada.
 
-Estado: 🟡 En progreso
+VIDEO-001 listo para entrar en fase de producción.
 
 ---
 
-## Desarrollo
+## Próximo Sprint
 
-- [x] Repositorio creado
-- [x] Solución .NET 9 creada
-- [x] OpenAPI funcionando
-- [x] Primer commit oficial de código
-
-Estado: 🟡 En progreso
-
----
-
-## Video 001
-
-### Preproducción
-
-- [x] Product Brief
-- [x] Script base
-- [x] Storyboard
-- [x] Pipeline
-- [x] Process
-
-### Producción
-
-- [ ] Radiografía del Proyecto
-- [ ] Grabación
-- [ ] Edición
-- [ ] Revisión de calidad
-
-### Publicación
-
-- [ ] Miniatura
-- [ ] Descripción
-- [ ] SEO
-- [ ] Publicación
-
-Estado: 🟡 En progreso
-
----
-
-# Backlog
-
-## Prioridad Alta
-
-- [ ] Generar logo oficial
-- [ ] Generar banner oficial
-- [ ] Generar avatar oficial
-- [ ] Completar Brand Kit
-
-## Prioridad Media
-
-- [ ] Finalizar Radiografía del Proyecto
-- [ ] Instalar Swagger UI (VIDEO-002)
-- [ ] Crear ProductsController
-- [ ] Eliminar WeatherForecast
-
----
-
-# Próximo Sprint
-
-**Sprint 1.4 – Radiografía del Proyecto**
+Sprint 2
 
 Objetivo:
 
-Comprender completamente la estructura generada por Visual Studio antes de escribir código de negocio.
+Construcción del Brand Kit oficial y preparación del pipeline de producción audiovisual.
 
 ---
 
-# Definition of Done - Sprint 1
+## Riesgos
 
-## Planeación
-
-- [x] DAPS aprobado
-
-## Desarrollo
-
-- [x] Proyecto creado
-- [x] Primer commit oficial
-
-## Branding
-
-- [ ] Logo oficial
-- [ ] Banner oficial
-- [ ] Avatar oficial
-
-## Video
-
-- [ ] Video 001 publicado
+Ninguno bloqueante.
 
 ---
 
-Estado general del Sprint 1:
+## Deuda Técnica
 
-🟡 En progreso
+- Logo definitivo.
+- Banner.
+- Intro.
+- Outro.
+- Swagger UI.
+- Shorts.
+- TikTok.
+
+Toda la deuda se encuentra documentada y priorizada.
