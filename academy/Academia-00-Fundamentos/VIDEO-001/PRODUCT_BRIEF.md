@@ -1,164 +1,106 @@
-# PRODUCT_BRIEF
+# PRODUCT BRIEF
+
+**Documento:** EP-001-PB-001
+**Estado:** Approved
+**Versión:** 1.0
+**Sprint:** 3
 
 ---
 
-# Información General
+# Episodio
 
-**Academia**
-Academia-00-Fundamentos
+EP-001
 
-**Video**
-VIDEO-001
+---
 
-**Título**
-Crea tu primera API profesional con ASP.NET Core y .NET 9
+# Título de trabajo
 
-**Serie**
-DevIA.Store
-
-**Versión**
-1.0.0
-
-**Estado**
-Approved
+No empieces un proyecto .NET hasta ver esto | La base que nadie te enseña
 
 ---
 
 # Problema
 
-Muchos desarrolladores comienzan a trabajar con ASP.NET Core sin comprender los fundamentos de una Web API ni la estructura inicial de un proyecto profesional.
+La mayoría de los tutoriales enseñan cómo crear un proyecto.
 
-Esto provoca confusión, malas prácticas y una curva de aprendizaje innecesariamente larga.
+Muy pocos explican qué decisiones deben tomarse antes del primer clic.
 
-Este episodio busca eliminar esa barrera.
+Esto provoca que muchos desarrolladores aprendan a crear proyectos, pero no a diseñarlos correctamente.
 
 ---
 
 # Objetivo
 
-Al finalizar este episodio, el estudiante será capaz de:
-
-- Comprender qué es una Web API.
-- Crear una Solution profesional.
-- Crear un proyecto ASP.NET Core Web API en .NET 9.
-- Comprender la estructura inicial del proyecto.
-- Ejecutar Swagger.
-- Crear y validar su primer endpoint.
+Mostrar el proceso de pensamiento que sigue un desarrollador profesional antes de escribir la primera línea de código.
 
 ---
 
-# Público Objetivo
+# Resultado esperado
 
-Este episodio está dirigido a:
+Al finalizar el episodio, el espectador será capaz de:
 
-- Desarrolladores que comienzan con ASP.NET Core.
-- Estudiantes de programación.
-- Desarrolladores de otras tecnologías que desean aprender .NET.
-- Personas que buscan construir proyectos reales desde cero.
-
-No se requieren conocimientos previos de ASP.NET Core.
+- Comprender la importancia de planificar antes de programar.
+- Diferenciar un proyecto improvisado de uno bien diseñado.
+- Crear la base de una API profesional en .NET.
+- Entender por qué la estructura inicial afecta el crecimiento del proyecto.
 
 ---
 
-# Prerrequisitos
+# Público objetivo
 
-El estudiante debe contar con:
+Primario
 
-- Visual Studio 2022 instalado.
-- SDK de .NET 9.
-- Conocimientos básicos de programación.
-- Ganas de aprender paso a paso.
+- Desarrolladores Junior.
+- Estudiantes de Ingeniería.
+- Personas aprendiendo .NET.
 
----
+Secundario
 
-# Alcance
-
-Este episodio incluye:
-
-- Introducción a las Web API.
-- Creación de la Solution.
-- Creación del proyecto Web API.
-- Exploración de la estructura inicial.
-- Primera ejecución con Swagger.
-- Creación del primer endpoint.
-- Validación del endpoint.
+- Desarrolladores Mid.
+- Personas migrando desde Java, PHP o Node.js.
 
 ---
 
-# Fuera del alcance
+# Valor diferencial
 
-En este episodio no veremos:
+Este episodio no enseña únicamente a crear una API.
 
-- Entity Framework.
-- SQL Server.
-- Inyección de dependencias avanzada.
-- Arquitectura por capas.
-- Clean Architecture.
-- Autenticación.
-- Autorización.
-- Docker.
-- Azure.
-
-Estos temas se abordarán en episodios posteriores.
+Enseña cómo pensar antes de crearla.
 
 ---
 
-# Resultado Esperado
+# Promesa
 
-Al finalizar el episodio, el estudiante tendrá una Web API funcional ejecutándose localmente, comprenderá la estructura del proyecto y habrá creado su primer endpoint.
-
----
-
-# Entregables
-
-- Proyecto DevIA.Store.
-- Código fuente en GitHub.
-- Video completo para YouTube.
-- Shorts derivados del episodio.
-- Clips para TikTok.
-- Documentación DAPS actualizada.
+Cuando termines este episodio verás cualquier proyecto .NET con otros ojos.
 
 ---
 
-# Riesgos
+# Llamado a la acción
 
-- Intentar explicar demasiados conceptos en un solo episodio.
-- Asumir conocimientos previos del estudiante.
-- Avanzar demasiado rápido durante la demostración.
-- Descuidar el ritmo entre explicación y práctica.
-
----
-
-# Métricas de Éxito
-
-El episodio será considerado exitoso si el estudiante puede:
-
-- Explicar qué es una Web API.
-- Crear correctamente un proyecto ASP.NET Core Web API.
-- Identificar los archivos principales del proyecto.
-- Ejecutar Swagger.
-- Crear un endpoint GET funcional.
-- Validar el endpoint utilizando Swagger.
+- Descargar el repositorio.
+- Continuar con el EP-002.
+- Suscribirse al canal.
 
 ---
 
-# Criterios de Calidad
+# KPIs
 
-Antes de publicarse, el episodio debe cumplir con:
+CTR
 
-- El código compila sin errores.
-- Todo lo mostrado funciona en una instalación limpia.
-- Cada escena responde una única pregunta.
-- El contenido aporta valor al estudiante.
-- El episodio sigue la metodología DAPS.
-- El proyecto queda listo para continuar en el VIDEO-002.
+> 6%
 
-# Principio Editorial
+Retención al minuto 1
 
-Este episodio no busca enseñar a memorizar código.
+> 80%
 
-Busca enseñar a comprender por qué el código existe.
+Retención total
 
-Cada decisión tomada durante el desarrollo será explicada antes de implementarse.
+> 50%
 
-El objetivo es formar desarrolladores capaces de razonar, no únicamente de copiar.
+Comentarios
+
+> 20
+
+Descargas del repositorio
+
+> 100
